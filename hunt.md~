@@ -2,7 +2,7 @@
 
 ####Assignment
 
-For this Lab you will be making HTTP requests in your terminal using **curl** and scavenging for data in the response you get back. **curl** is short for "Client for URL's" and is a tool that allows us to make HTTP requests in our terminal. 
+For this Lab you will be making HTTP requests in your terminal using **curl** and scavenging for data in the response you get back. **curl** is short for "Client for URL's" and is a tool that allows us to make HTTP requests in our terminal.  
 
 ___________________________________________
 
@@ -50,7 +50,7 @@ ___________________________________________________
 
 **Phase 3: Make a GET request to the OMDBAPI with parameters**
 
-In terminal: 
+In terminal:  
 
 `curl -v http://www.omdbapi.com/?s=Titanic`
 
